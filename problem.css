@@ -1,0 +1,37 @@
+.example {
+    margin-bottom: 10px;
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    transition: all .5s;
+    margin-left: 10px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+.homeBtn {
+    background-color: white;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: all .5s;
+    margin-left: 10px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    color: black;
+}
+
+.homeBtn:hover {
+    background-color: black;
+    color: white;
+}
+
